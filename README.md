@@ -22,27 +22,27 @@ beats. Use extra spaces to line up the beats.
 The following list represents all valid percussive sounds. Any sound can be
 written in capital letters to increase loudness.
 
-  .                  # rest
-  doom, boom         # bass drum
-  tik , rik          # snare
-  pah , kah          # clap/hit
-  chik, pss , wsh    # hi hat
-  krsh, psh , dang   # cymbals
-  dee , dih , dah    # toms
-  doh , doo , duh    # more toms
-  ding, dong         # agogo
-  bum , bom          # bongo
-  ash                # cymbal
-  plik               # tambourine
-  shik               # maracas
-  goh                # cowbell
-  dddd               # vibraslap
-  twih, twee         # whistle
-  gih , grrr         # guiro
-  dink               # claves
-  nik , nok          # wood block
-  uhh , err          # cuica
-  twik, tink         # triangle
+    .                  # rest
+    doom, boom         # bass drum
+    tik , rik          # snare
+    pah , kah          # clap/hit
+    chik, pss , wsh    # hi hat
+    krsh, psh , dang   # cymbals
+    dee , dih , dah    # toms
+    doh , doo , duh    # more toms
+    ding, dong         # agogo
+    bum , bom          # bongo
+    ash                # cymbal
+    plik               # tambourine
+    shik               # maracas
+    goh                # cowbell
+    dddd               # vibraslap
+    twih, twee         # whistle
+    gih , grrr         # guiro
+    dink               # claves
+    nik , nok          # wood block
+    uhh , err          # cuica
+    twik, tink         # triangle
 
 Though similar in spirit, this tool is a bit more advanced than (and preadtes)
 [Google Translate beatboxing](https://github.com/ianli/google-beatbox). This
@@ -50,4 +50,5 @@ is polyrhythmic, uses more drumlike sounds, and generates actual audio files.
 
 --
 Daniel W. Steinbrook
+
 January 2009

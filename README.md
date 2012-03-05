@@ -1,6 +1,6 @@
-The Onomatosynthesizer is an unusual kind of software drum machine.
-It's a combined interpreter and NIDI sequencer for a cute domain-specific
-language for percussion.
+The Onomatosynthesizer is an unusual software drum machine. It's a combined
+interpreter and MIDI sequencer for a cute domain-specific language for 
+percussion.
 
 Take a look in the samples/ directory to see how to generate some
 familiar beats. You'll need [the midilib library](http://midilib.rubyforge.org)

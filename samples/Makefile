@@ -22,7 +22,7 @@ rock:
 tamborzao:
 	ruby ../onomatosynthesizer.rb tamborzao.vpal 240 4 tamborzao.mid
 
-all: bossa dougie klezmer latin macarena rock tamborzao
+all: bossa dougie klezmer latin macarena reggaeton rock tamborzao
 
 clean:
 	rm *.mid

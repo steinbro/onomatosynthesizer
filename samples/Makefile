@@ -13,10 +13,16 @@ latin:
 macarena:
 	ruby ../onomatosynthesizer.rb macarena.vpal 240 2 macarena.mid
 
+reggaeton:
+	ruby ../onomatosynthesizer.rb reggaeton.vpal 180 8 reggaeton.mid
+
 rock:
 	ruby ../onomatosynthesizer.rb rock.vpal 180 4 rock.mid
 
-all: bossa dougie klezmer latin macarena rock
+tamborzao:
+	ruby ../onomatosynthesizer.rb tamborzao.vpal 240 4 tamborzao.mid
+
+all: bossa dougie klezmer latin macarena rock tamborzao
 
 clean:
 	rm *.mid
